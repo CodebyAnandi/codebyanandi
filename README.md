@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Tech Enthusiast, Researcher and Blockchain Contributor. 
+Anandi Sheladiya is the Chief Product Officer at Enabl3, a cutting-edge Voice AI Agent platform that enables human-like conversations powered by real-time AI and emotional intelligence. At Enabl3, she leads the vision, product architecture, and go-to-market execution, shaping the future of voice-first interactions where AI agents can speak, understand, and respond just like humans. Her focus is on creating scalable, emotionally intelligent AI systems that blend natural voice synthesis, intent recognition, and seamless enterprise integrations.
+
+Previously, Anandi served as the Chief Product Officer at Promind, where she drove the development of a high-performance crypto trading platform on Solana and an AI-powered crypto casino platform, merging speed, scalability, and intelligent automation in Web3 ecosystems. Before that, she founded and led Tanthetaa, a technology studio that delivered over 200 digital products and 50+ blockchain solutions across DeFi, gaming, and AI verticals, building a global reputation for technical excellence and innovation.
+
+A multidisciplinary leader and product strategist, Anandi combines deep technical expertise with creative product thinking and business vision. She excels at turning complex technologies into market-ready products, building and mentoring large cross-functional teams, and driving innovation at the intersection of AI, blockchain, and human experience. Her leadership philosophy centers on crafting technology that not only performs—but connects, communicates, and inspires.
 
 
 ## 🌐 Socials:
